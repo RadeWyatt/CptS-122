@@ -1,0 +1,141 @@
+﻿  main.c
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(26): warning C4047: 'function': 'Node ***' differs in levels of indirection from 'Node **'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(26): warning C4024: 'readrecords': different types for formal and actual parameter 2
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(31): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(31): warning C4024: 'storerecords': different types for formal and actual parameter 2
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(67): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(67): warning C4024: 'storerecords': different types for formal and actual parameter 2
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\main.c(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  functions.c
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(39): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(39): warning C4024: 'atoi': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(163): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(115): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(162): warning C4473: 'scanf' : not enough arguments passed for format string
+  c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(162): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(162): note: the missing variadic argument 1 is required by format string '%c'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(162): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(226): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(226): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(227): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(227): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(228): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(228): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(229): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(229): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(242): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(242): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(243): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(243): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(244): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(244): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(245): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(245): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(248): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node ***'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(248): warning C4024: 'insertfront': different types for formal and actual parameter 1
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(217): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(218): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(222): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(223): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(225): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(234): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(235): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(213): warning C4101: 'temp': unreferenced local variable
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(265): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(305): warning C4047: '=': 'Node *' differs in levels of indirection from 'Node **'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(344): warning C4473: 'scanf' : not enough arguments passed for format string
+  c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(344): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(344): note: the missing variadic argument 1 is required by format string '%c'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(344): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(389): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(391): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(393): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(395): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(397): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(399): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(401): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(429): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(431): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(433): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(435): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(437): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(439): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(441): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(469): warning C4473: 'scanf' : not enough arguments passed for format string
+  c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(469): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(469): note: the missing variadic argument 1 is required by format string '%c'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(469): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(482): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(514): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(548): warning C4013: 'putch' undefined; assuming extern returning int
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(546): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(559): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(562): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(565): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(593): warning C4098: 'deletenode': 'void' function returning a value
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(588): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(639): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(641): warning C4101: 'i': unreferenced local variable
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(814): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(834): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(845): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(851): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+  Generating Code...
+c:\users\raden\downloads\pa 3 by rade pilkinton\rade pilkinton-09-20-2017-18-22-46\pilkinton_pa2\functions.c(64): warning C4716: 'makenode': must return a value
+  Pilkinton_PA2.vcxproj -> C:\Users\Raden\Downloads\PA 3 by Rade Pilkinton\Rade Pilkinton-09-20-2017-18-22-46\x64\Debug\Pilkinton_PA2.exe
+  Pilkinton_PA2.vcxproj -> C:\Users\Raden\Downloads\PA 3 by Rade Pilkinton\Rade Pilkinton-09-20-2017-18-22-46\x64\Debug\Pilkinton_PA2.pdb (Full PDB)

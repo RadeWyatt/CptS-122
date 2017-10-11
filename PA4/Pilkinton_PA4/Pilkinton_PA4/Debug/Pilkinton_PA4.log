@@ -1,0 +1,16 @@
+﻿  main.c
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\main.c(12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\main.c(13): warning C4133: 'initializing': incompatible types - from 'Queue *' to 'Queue *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\main.c(14): warning C4133: 'initializing': incompatible types - from 'Queue *' to 'Queue *'
+  functions.c
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\functions.c(47): warning C4013: 'strcpy' undefined; assuming extern returning int
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\functions.c(82): warning C4133: '=': incompatible types - from 'GroceryNode *' to 'GroceryNode *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\functions.c(84): warning C4133: '=': incompatible types - from 'GroceryNode *' to 'GroceryNode *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\functions.c(123): warning C4133: 'return': incompatible types - from 'Queue *' to 'Queue *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\functions.c(178): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\functions.c(207): warning C4133: '=': incompatible types - from 'GroceryNode *' to 'GroceryNode *'
+  Generating Code...
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa4\pilkinton_pa4\pilkinton_pa4\functions.c(228): warning C4715: 'PrintEntireQueue': not all control paths return a value
+  Pilkinton_PA4.vcxproj -> E:\WSU\2 Sophomore\CptS 122\Programming Assignments\PA4\Pilkinton_PA4\Debug\Pilkinton_PA4.exe
+  Pilkinton_PA4.vcxproj -> E:\WSU\2 Sophomore\CptS 122\Programming Assignments\PA4\Pilkinton_PA4\Debug\Pilkinton_PA4.pdb (Full PDB)

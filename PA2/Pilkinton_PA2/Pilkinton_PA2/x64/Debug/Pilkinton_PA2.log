@@ -1,0 +1,99 @@
+﻿  functions.c
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(39): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(39): warning C4024: 'atoi': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(163): warning C4013: 'gets' undefined; assuming extern returning int
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(115): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(162): warning C4473: 'scanf' : not enough arguments passed for format string
+  e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(162): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(162): note: the missing variadic argument 1 is required by format string '%c'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(162): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(226): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(226): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(227): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(227): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(228): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(228): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(229): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(229): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(242): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(242): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(243): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(243): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(244): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(244): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(245): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(245): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(248): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node ***'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(248): warning C4024: 'insertfront': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(217): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(218): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(222): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(223): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(225): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(234): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(235): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(213): warning C4101: 'temp': unreferenced local variable
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(265): warning C4013: 'getch' undefined; assuming extern returning int
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(305): warning C4047: '=': 'Node *' differs in levels of indirection from 'Node **'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(344): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(389): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(391): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(393): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(395): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(397): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(399): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(401): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(429): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(431): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(433): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(435): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(437): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(439): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(441): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(469): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(482): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(514): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa2\pilkinton_pa2\pilkinton_pa2\functions.c(64): warning C4716: 'makenode': must return a value
+  Pilkinton_PA2.vcxproj -> E:\WSU\2 Sophomore\CptS 122\Programming Assignments\PA2\Pilkinton_PA2\x64\Debug\Pilkinton_PA2.exe
+  Pilkinton_PA2.vcxproj -> E:\WSU\2 Sophomore\CptS 122\Programming Assignments\PA2\Pilkinton_PA2\x64\Debug\Pilkinton_PA2.pdb (Full PDB)
