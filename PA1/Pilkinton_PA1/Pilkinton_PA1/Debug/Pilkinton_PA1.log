@@ -1,0 +1,30 @@
+﻿  main.c
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(37): warning C4024: 'newline': different types for formal and actual parameter 2
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(47): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(47): warning C4024: 'strtodub': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(49): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(49): warning C4024: 'strtodub': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(51): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(51): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(53): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(53): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(55): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(55): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(57): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(57): warning C4024: 'strtointeger': different types for formal and actual parameter 1
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(40): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(41): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(538): note: see declaration of 'strdup'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\wsu\2 sophomore\cpts 122\programming assignments\pa1\pilkinton_pa1\pilkinton_pa1\main.c(22): warning C4101: 'minutes': unreferenced local variable
+  Pilkinton_PA1.vcxproj -> E:\WSU\2 Sophomore\CptS 122\Programming Assignments\PA1\Pilkinton_PA1\Debug\Pilkinton_PA1.exe
+  Pilkinton_PA1.vcxproj -> E:\WSU\2 Sophomore\CptS 122\Programming Assignments\PA1\Pilkinton_PA1\Debug\Pilkinton_PA1.pdb (Partial PDB)
